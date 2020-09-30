@@ -1,0 +1,6 @@
+info:
+  -  CHANNELS: 2  # Adjust to your number of channels
+  -  RATE : 44100  # Sample Rate
+  -  CHUNK: 1024  # Block Size
+  -  RECORD_SECONDS: 5  # Record time
+  -  WAVE_OUTPUT_FILENAME: "right.wav"
